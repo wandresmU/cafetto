@@ -1,0 +1,27 @@
+.cuerpo{
+    background-color: black;
+    text-align: center;
+}
+
+.campoTexto{
+    margin: 10px;
+    text-align: CENTER;
+    border-radius: 15px;
+    
+}
+
+.boton1{
+    font-weight: bold;
+    margin:10px;
+    background: linear-gradient(to right, #4dff4d, #00ffff);
+    color:#ffffff;
+    /* cursor: pointer; */
+    width: 165px; 
+    height: 25px; 
+    border-radius:15px ;
+}
+
+.linkFP{
+    text-decoration: none;
+    color: gray;
+}
